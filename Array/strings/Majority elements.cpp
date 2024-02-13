@@ -2,7 +2,7 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) {
         unordered_map<int, int> hash;
-        int res = 0;
+        int result = 0;
         int majority = 0;
 
         for (int n : nums) {
@@ -13,6 +13,6 @@ public:
             }
         }
 
-        return res;        
+        return result;        
     }
 };
