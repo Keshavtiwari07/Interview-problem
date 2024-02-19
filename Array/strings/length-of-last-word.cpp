@@ -9,6 +9,6 @@ public:
             } else if(ans > 0) return ans;
             right--;
         }
-        return ans;
+        return answer;
     }
 };
