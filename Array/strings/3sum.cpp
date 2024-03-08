@@ -1,4 +1,4 @@
-//Optimized Approach - O(n^2 logn + nlogn) - o(n^2 logn) time and O(n) space
+// 3 sum problem
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
