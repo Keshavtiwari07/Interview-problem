@@ -9,6 +9,6 @@ public:
               count=count+1;
           }
       } 
-      return s.size()==count;
+      return s.size()==count;// over
     }
 };
