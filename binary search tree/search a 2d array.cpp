@@ -1,4 +1,4 @@
-// matrix problem brute solution
+// matrix problem brute solution tc 0(n^2)
 class Solution {
 public:
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
