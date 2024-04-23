@@ -26,7 +26,7 @@ public:
             }
         }
 
-        // return length of compressed vector
+        // return length of the compressed vector
         return ans;
     }
 };
