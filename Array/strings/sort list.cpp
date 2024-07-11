@@ -1,4 +1,4 @@
-/** simple problem
+/** simple problem on leetcode
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
